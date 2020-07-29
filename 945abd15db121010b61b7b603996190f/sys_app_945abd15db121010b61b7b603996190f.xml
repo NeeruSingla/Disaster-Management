@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>false</can_edit_in_studio>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <hide_on_ui>false</hide_on_ui>
+        <installed_as_dependency>false</installed_as_dependency>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license_category>none</license_category>
+        <license_definition/>
+        <license_model>none</license_model>
+        <logo>c15a3d51db121010b61b7b60399619d5</logo>
+        <menu/>
+        <name>Disaster Management</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_287489_disaster</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description>ServiceNow application available for healthcare industry to deal with the global pandemic like COVID-19</short_description>
+        <source>x_287489_disaster</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-28 09:37:41</sys_created_on>
+        <sys_id>945abd15db121010b61b7b603996190f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-28 09:37:46</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <uninstall_blocked>false</uninstall_blocked>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/jpeg</content_type>
+        <file_name>disastermanagement.jpg</file_name>
+        <hash>ac5ad1775753d1f88ba5fc899600161e764efdb9ff60c0264b13918b63279db2</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>3356</size_bytes>
+        <size_compressed>3079</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-28 09:37:45</sys_created_on>
+        <sys_id>c15a3d51db121010b61b7b60399619d5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-07-28 09:37:45</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>945abd15db121010b61b7b603996190f</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="disastermanagement.jpg" sys_id="c15a3d51db121010b61b7b60399619d5">c15a3d51db121010b61b7b60399619d5</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-28 09:37:45</sys_created_on>
+        <sys_id>055a3d51db121010b61b7b60399619d5</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>4092</length>
+        <position>1</position>
+        <sys_attachment display_value="disastermanagement.jpg" sys_id="c15a3d51db121010b61b7b60399619d5">c15a3d51db121010b61b7b60399619d5</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-28 09:37:45</sys_created_on>
+        <sys_id>855a3d51db121010b61b7b60399619d5</sys_id>
+    </sys_attachment_doc>
+</record_update>

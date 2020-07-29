@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Equipment" max_length="40" name="x_287489_disaster_equipment" type="collection">
+        <element label="Name" max_length="1024" name="name" type="string"/>
+        <element choice="3" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Searchable" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Non Searchable" sequence="1" value="2"/>
+            </choice>
+        </element>
+    </element>
+</database>

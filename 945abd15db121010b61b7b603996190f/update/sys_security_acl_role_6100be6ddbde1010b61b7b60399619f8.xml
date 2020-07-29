@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-29 08:10:50</sys_created_on>
+        <sys_id>6100be6ddbde1010b61b7b60399619f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_287489_disaster_equipment.x_287489_disaster.equipment_user</sys_name>
+        <sys_package display_value="Disaster Management" source="x_287489_disaster">945abd15db121010b61b7b603996190f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Disaster Management">945abd15db121010b61b7b603996190f</sys_scope>
+        <sys_security_acl display_value="x_287489_disaster_equipment">2100be6ddbde1010b61b7b60399619f5</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_6100be6ddbde1010b61b7b60399619f8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-29 08:10:50</sys_updated_on>
+        <sys_user_role display_value="x_287489_disaster.equipment_user" name="x_287489_disaster.equipment_user">51003a69dbde1010b61b7b603996193c</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
